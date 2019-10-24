@@ -1,1 +1,3 @@
-¹þ¹þ¹þ
+public static void main(String[] ager){
+   System.out.printf("holle wlord");
+}
